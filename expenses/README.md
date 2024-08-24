@@ -8,7 +8,7 @@ type:
 
  "npm run dev"
 
-### Taked into account
+### Taken into account
 
 1. you may need to make a Clerk account and put the token in .env
 
