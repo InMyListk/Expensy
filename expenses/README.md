@@ -7,3 +7,9 @@ This is a learning platform that teaches french for arabic speakers
 type: 
 
  "npm run dev"
+
+### Taked into account
+
+1. you may need to make a Clerk account and put the token in .env
+
+2. you may also need a (neon database)  and put the utl connection in .env
